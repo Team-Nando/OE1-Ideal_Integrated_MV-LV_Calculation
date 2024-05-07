@@ -1,4 +1,4 @@
-# Assessessment of Operating Envelopes in Integrated HV-LV Networks - OE Algorithm 1: Ideal (Integrated HV-LV OE Calculation)
+# Assessment of Integrated HV-LV OE Calculations to Orchestrate DERs - OE Algorithm 1: Ideal (Integrated HV-LV OE Calculation)
 
 This repository is part of the project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia) funded by CSIRO. This project provided key metrics and recommendations for distribution companies (known as Distribution Network Service Providers [DNSPs] in Australia) and AEMO (the Australian system operator) to assist them in their decision-making process when defining the most suitable Operating Envelope (OE) implementations in a given distribution area.
 
